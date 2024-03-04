@@ -136,7 +136,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityakalambe01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 
 -----
@@ -175,3 +175,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br><br>
+
+
+<div align="center">
+    <h3>😂 Dev Meme </h3>
+    <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
+
+<br><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
