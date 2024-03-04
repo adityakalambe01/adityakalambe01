@@ -136,12 +136,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityakalambe01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 -----
 
 <br>
 <h3><b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3>
 <br>
+
 
 <div align='left'>
 
