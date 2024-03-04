@@ -1,3 +1,5 @@
+<img src="images/profile/ProfilePic.png">
+<br>
 <div align="right">
   <img src="https://profile-counter.glitch.me/adityakalambe01/count.svg?"  />
 </div>
