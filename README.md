@@ -1,4 +1,6 @@
-
+<div align="right">
+  <img src="https://profile-counter.glitch.me/adityakalambe01/count.svg?"  />
+</div>
 <h1 align="center"><b>Hi , I'm Aditya Kalambe</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center"> 
@@ -122,6 +124,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityakalambe01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakalambe01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <br>
+  <br>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakalambe01&" alt="adityakalambe01" /></p>
 </div>
 
 ###
