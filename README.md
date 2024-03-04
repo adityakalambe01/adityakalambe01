@@ -147,7 +147,16 @@
 <a href="https://www.linkedin.com/in/adityakalambe/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a> &nbsp;
- &nbsp;
+<a href="https://www.instagram.com/adityakalambe01/" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+</a> &nbsp;
+<a href="https://join.skype.com/invite/xSsk4fU0CFk2" target="_blank">
+  <img src="https://img.shields.io/badge/skype-00AFF0.svg?style=for-the-badge&logo=skype&logoColor=white" alt=skype style="margin-bottom: 5px;"/>
+</a> &nbsp;
+<a href="https://wa.me/918669738983?text=Hello%20Aditya,%20I'm%20(your%20name)%20contacted%20you%20from%20github." target="_blank">
+  <img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt=skype style="margin-bottom: 5px;"/>
+</a>
+ 
 
 
 </ul>
