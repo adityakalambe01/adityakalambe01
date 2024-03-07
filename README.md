@@ -150,9 +150,9 @@
 
 
 
-<table style="width: 100%;">
+<table style="width: 100%; border-collapse: collapse">
     <tr style="border: 0 solid transparent !important;">
-        <td  style="border: 1px solid transparent !important;">
+        <td  style="border: 0 solid transparent !important;">
             <a href="mailto:adityakalambe20@gmail.com" target="_blank">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
             </a>
