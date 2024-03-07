@@ -88,20 +88,106 @@
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
-    ![Intellij Idea](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white) &nbsp;
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
-    ![Eclipse IDE](https://img.shields.io/badge/eclipse_ide-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white) &nbsp;
-    ![Webstorm](https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white) &nbsp;
-    ![Pycharm](https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) &nbsp;
-    ![Notepad Plus Plus](https://img.shields.io/badge/notepad++-90E59A.svg?style=for-the-badge&logo=notepadplusplus&logoColor=white) &nbsp;
-    ![Spyder IDE](https://img.shields.io/badge/spyder_ide-FF0000.svg?style=for-the-badge&logo=spyderide&logoColor=white) &nbsp;
-    ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) &nbsp;
-    ![Anaconda](https://img.shields.io/badge/anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) &nbsp;
-    ![MySQL Workbench](https://img.shields.io/badge/MySQL_workbench-1E93D9.svg?style=for-the-badge&logo=blockbench&logoColor=white) &nbsp;
-    ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) &nbsp;
-    ![Chat GPT](https://img.shields.io/badge/chat_gpt-412991.svg?style=for-the-badge&logo=openai&logoColor=white) &nbsp;
+ <p align="center">
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt=Jupyter style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt=PyCharm style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/chat_gpt-412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="Chat Gpt" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt=Webstorm style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/spyder_ide-FF0000.svg?style=for-the-badge&logo=spyderide&logoColor=white" alt="Spyder IDE" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/notepad++-90E59A.svg?style=for-the-badge&logo=notepadplusplus&logoColor=white" alt="Notepad++" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/eclipse_ide-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse IDE" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="Intellij Idea" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/MySQL_workbench-1E93D9.svg?style=for-the-badge&logo=blockbench&logoColor=white" alt="MySQL Workbench" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+  <td>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+</p>
 
 <br>
 
