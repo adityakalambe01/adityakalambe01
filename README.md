@@ -107,11 +107,11 @@
 
 - **Operating System :**
 
-    ![Windows](https://img.shields.io/badge/windows-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
-    ![Kali Linux](https://img.shields.io/badge/kali_linux-557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white) &nbsp;
-    ![Arch Linux](https://img.shields.io/badge/arch_linux-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white) &nbsp;
-    ![Linux Mint](https://img.shields.io/badge/linux_mint-87CF3E.svg?style=for-the-badge&logo=linuxmint&logoColor=white) &nbsp;
-    ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) &nbsp;
+    ![Windows](https://img.shields.io/badge/windows-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
+    ![Kali Linux](https://img.shields.io/badge/kali_linux-557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+    ![Arch Linux](https://img.shields.io/badge/arch_linux-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
+    ![Linux Mint](https://img.shields.io/badge/linux_mint-87CF3E.svg?style=for-the-badge&logo=linuxmint&logoColor=white)
+    ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 </p>
@@ -146,40 +146,45 @@
 
 <br>
 <h3><b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3>
-<br>
 
+<p align="center">
+  
+  <td>
+    <a href="mailto:adityakalambe20@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+  
+  <td>
+    <a href="https://join.skype.com/invite/xSsk4fU0CFk2" target="_blank">
+      <img src="https://img.shields.io/badge/skype-00AFF0.svg?style=for-the-badge&logo=skype&logoColor=white" alt=skype style="margin-bottom: 5px;"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+  
+  <td>
+    <a href="https://www.linkedin.com/in/adityakalambe/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+  
+  <td>
+    <a href="https://wa.me/918669738983?text=Hello%20Aditya,%20I'm%20(your%20name)%20contacted%20you%20from%20github." target="_blank">
+      <img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt=skype style="margin-bottom: 5px;"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+  
+  <td>
+    <a href="https://www.instagram.com/adityakalambe01/" target="_blank">
+      <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
 
-
-<table style="width: 100%; border-collapse: collapse">
-    <tr style="border: 0 solid transparent !important;">
-        <td  style="border: 0 solid transparent !important;">
-            <a href="mailto:adityakalambe20@gmail.com" target="_blank">
-                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
-            </a>
-        </td>
-        <td  style="border: 0 solid transparent !important;">
-            <a href="https://www.linkedin.com/in/adityakalambe/" target="_blank">
-                <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-            </a>
-        </td>
-        <td  style="border: 0 solid transparent !important;">
-            <a href="https://www.instagram.com/adityakalambe01/" target="_blank">
-                <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-            </a>
-        </td>
-        <td  style="border: 0 solid transparent !important;">
-            <a href="https://join.skype.com/invite/xSsk4fU0CFk2" target="_blank">
-                <img src="https://img.shields.io/badge/skype-00AFF0.svg?style=for-the-badge&logo=skype&logoColor=white" alt=skype style="margin-bottom: 5px;"/>
-            </a>
-        </td>
-        <td style="border: 0 solid transparent !important;">
-            <a href="https://wa.me/918669738983?text=Hello%20Aditya,%20I'm%20(your%20name)%20contacted%20you%20from%20github." target="_blank">
-                <img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt=skype style="margin-bottom: 5px;"/>
-            </a>
-        </td>
-    </tr>
-    
-</table>
+</p>
 
 
 
