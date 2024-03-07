@@ -58,7 +58,7 @@
    ![Hibernate](https://img.shields.io/badge/hibernate%20-gray.svg?&style=for-the-badge&logo=hibernate&logoColor=white) &nbsp;
    ![JDBC](https://img.shields.io/badge/jdbc%20-%23ED8B00.svg?&style=for-the-badge&logo=jdbc&logoColor=white) &nbsp;
    ![JSP](https://img.shields.io/badge/jsp%20-%23ED8B00.svg?&style=for-the-badge&logo=jsp&logoColor=white) &nbsp;
-   ![Servlets](https://img.shields.io/badge/Servlets%20-%23ED8B00.svg?&style=for-the-badge&logo=servlets&logoColor=white) &nbsp;
+   ![Servlets](https://img.shields.io/badge/Servlets%20-%23ED8B00.svg?&style=for-the-badge&logo=svelte&logoColor=white) &nbsp;
 
 <br>
 
