@@ -126,13 +126,12 @@
 
 ###
 
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakalambe01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200px" alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakalambe01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150px" alt="stats graph" /> 
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakalambe01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150px" alt="languages graph" />
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakalambe01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="200px" alt="languages graph" />
-  <br>
-  <br>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakalambe01&theme=dracula&hide_border=false" alt="adityakalambe01" height="200px"/></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakalambe01&theme=dracula&hide_border=false" alt="adityakalambe01"/></p>
 </div>
 
 ###
