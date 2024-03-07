@@ -206,6 +206,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-<div style="background-color: red; padding: 10px;">
-    <p>This is a paragraph with a gray background.</p>
-</div>
