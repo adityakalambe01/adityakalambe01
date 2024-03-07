@@ -107,12 +107,43 @@
 
 - **Operating System :**
 
-    ![Windows](https://img.shields.io/badge/windows-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
-    ![Kali Linux](https://img.shields.io/badge/kali_linux-557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
-    ![Arch Linux](https://img.shields.io/badge/arch_linux-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
-    ![Linux Mint](https://img.shields.io/badge/linux_mint-87CF3E.svg?style=for-the-badge&logo=linuxmint&logoColor=white)
-    ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+<p align="center">
 
+  <td>
+    <a href="https://www.microsoft.com/en-in/software-download/windows10" target="_blank">
+      <img src="https://img.shields.io/badge/windows-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white" alt=windows style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+   <td>
+    <a href="https://www.kali.org/" target="_blank">
+      <img src="https://img.shields.io/badge/kali_linux-557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+   <td>
+    <a href="https://archlinux.org/" target="_blank">
+      <img src="https://img.shields.io/badge/arch_linux-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+   <td>
+    <a href="https://www.linuxmint.com/" target="_blank">
+      <img src="https://img.shields.io/badge/linux_mint-87CF3E.svg?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+
+   <td>
+    <a href="https://ubuntu.com/" target="_blank">
+      <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt=Ubuntu style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+   </td>
+</p>
 
 </p>
 <br>
