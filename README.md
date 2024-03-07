@@ -126,11 +126,13 @@
 
 ###
 
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakalambe01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakalambe01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakalambe01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200px" alt="stats graph" /> 
   <br>
   <br>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakalambe01&" alt="adityakalambe01" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakalambe01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="200px" alt="languages graph" />
+  <br>
+  <br>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakalambe01&theme=dracula&hide_border=false" alt="adityakalambe01" height="200px"/></p>
 </div>
 
 ###
@@ -148,30 +150,47 @@
 <br>
 
 
-<div align='left'>
 
-<ul>
+<table style="width: 100%;">
+    <tr style="border: 1px solid transparent !important;">
+        <td  style="border: 1px solid transparent !important;">
+            <a href="mailto:adityakalambe20@gmail.com" target="_blank">
+                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
+            </a>
+        </td>
+        <td  style="border: 1px solid transparent !important;">
+            <a href="https://www.linkedin.com/in/adityakalambe/" target="_blank">
+                <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+            </a>
+        </td>
+        <td  style="border: 1px solid transparent !important;">
+            <a href="https://www.instagram.com/adityakalambe01/" target="_blank">
+                <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+            </a>
+        </td>
+        <td  style="border: 1px solid transparent !important;">
+            <a href="https://join.skype.com/invite/xSsk4fU0CFk2" target="_blank">
+                <img src="https://img.shields.io/badge/skype-00AFF0.svg?style=for-the-badge&logo=skype&logoColor=white" alt=skype style="margin-bottom: 5px;"/>
+            </a>
+        </td>
+        <td style="border: 1px solid transparent !important;">
+            <a href="https://wa.me/918669738983?text=Hello%20Aditya,%20I'm%20(your%20name)%20contacted%20you%20from%20github." target="_blank">
+                <img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt=skype style="margin-bottom: 5px;"/>
+            </a>
+        </td>
+    </tr>
+    
+</table>
 
-<a href="mailto:adityakalambe20@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/adityakalambe/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a> &nbsp;
-<a href="https://www.instagram.com/adityakalambe01/" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a> &nbsp;
-<a href="https://join.skype.com/invite/xSsk4fU0CFk2" target="_blank">
-  <img src="https://img.shields.io/badge/skype-00AFF0.svg?style=for-the-badge&logo=skype&logoColor=white" alt=skype style="margin-bottom: 5px;"/>
-</a> &nbsp;
-<a href="https://wa.me/918669738983?text=Hello%20Aditya,%20I'm%20(your%20name)%20contacted%20you%20from%20github." target="_blank">
-  <img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt=skype style="margin-bottom: 5px;"/>
-</a>
- 
 
 
-</ul>
-</div>
+
+
+
+
+
+
+
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -187,3 +206,4 @@
 <br><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+
