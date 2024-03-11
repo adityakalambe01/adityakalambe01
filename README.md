@@ -33,21 +33,69 @@
 
 <p align="center">
 
-- **Languages**:
+<h5>Programming Languages</h5>
+<p align="center">
+<td>
+    <a>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
+    <a>
+      <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
+    <a>
+      <img src="https://img.shields.io/badge/typescript%20-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
+    <a>
+        &nbsp;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
+    <a>
+        &nbsp;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+</p>
 
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) &nbsp;
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) &nbsp;
-    ![TypeScript](https://img.shields.io/badge/typescript%20-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
-
-<br>   
-
-- **Front-End Technologies**:
-
-  ![HTML](https://img.shields.io/badge/html_5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) &nbsp;
-  ![CSS](https://img.shields.io/badge/css_3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) &nbsp;
-  ![JavaScript](https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) &nbsp;
-  ![Angular](https://img.shields.io/badge/angular%20-red.svg?&style=for-the-badge&logo=angular&logoColor=white) &nbsp;
-  ![React](https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) &nbsp;
+<br>
+<h5>Front-End Technologies</h5>
+<p align="center">
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/html_5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/css_3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/angular%20-red.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+</p>
 
 <br>
     
