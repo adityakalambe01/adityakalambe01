@@ -98,40 +98,40 @@
 </p>
 
 <br>
-
-- **Java Technologies**:
-
-  ![Spring](https://img.shields.io/badge/spring%20-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) &nbsp;
-  ![SpringBoot](https://img.shields.io/badge/spring_boot%20-%6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white) &nbsp;
-  ![Hibernate](https://img.shields.io/badge/hibernate%20-gray.svg?&style=for-the-badge&logo=hibernate&logoColor=white) &nbsp;
-  ![JDBC](https://img.shields.io/badge/jdbc%20-%23ED8B00.svg?&style=for-the-badge&logo=jdbc&logoColor=white) &nbsp;
-  ![JSP](https://img.shields.io/badge/jsp%20-%23ED8B00.svg?&style=for-the-badge&logo=jsp&logoColor=white) &nbsp;
-  ![Servlets](https://img.shields.io/badge/Servlets%20-%23ED8B00.svg?&style=for-the-badge&logo=servlets&logoColor=white) &nbsp;
-
-<br>
-
-- **Design**:
-
-  ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) &nbsp;
+<h3>Java Technologies</h3>
+<p align="center">
+        <td><a><img src="https://img.shields.io/badge/jdbc%20-%23ED8B00.svg?&style=for-the-badge&logo=jdbc&logoColor=white" alt="JDBC"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/jsp%20-%23ED8B00.svg?&style=for-the-badge&logo=jsp&logoColor=white" alt="JSP"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/Servlets%20-%23ED8B00.svg?&style=for-the-badge&logo=servlets&logoColor=white" alt="Servlets"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/hibernate%20-gray.svg?&style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/spring%20-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/spring_boot%20-%6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</p>
 
 <br>
-
-- **Databases**:
-
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
-  ![Mongo DB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/postgre_sql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
+<h3>Design</h3>
+<p align="center">                                                                                                                                 
+        <td><a><img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</p>     
 
 <br>
+<h3>Databases</h3>
+<p align="center">                                                                                                                                                   
+        <td><a><img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>        
+        <td><a><img src="https://img.shields.io/badge/postgre_sql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</p>
 
-- **Cloud Hosting**:
 
-  ![Railway](https://img.shields.io/badge/railway-0B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white) &nbsp;
-  ![Github Pages](https://img.shields.io/badge/github_pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
-  ![Hostinger](https://img.shields.io/badge/hostinger-673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white) &nbsp;
-  ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white) &nbsp;
-  ![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) &nbsp;
-
+<br>
+<h3>Cloud Hosting</h3>
+<p align="center">
+        <td><a><img src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a></td>               
+        <td><a><img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a></td>
+        <td><a><img src="https://img.shields.io/badge/railway-0B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"></a></td>
+        <td><a><img src="https://img.shields.io/badge/hostinger-673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"></a></td>
+        <td><a><img src="https://img.shields.io/badge/github_pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages"></a></td>
+</p>    
 <br>
 <h3>Softwares and Tools</h3>
 <p align="center">
@@ -155,13 +155,13 @@
     </td>
     <td>
       <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/eclipse_ide-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse IDE" style="margin-bottom: 5px;" />
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td>
       <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/eclipse_ide-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse IDE" style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="margin-bottom: 5px;" />
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
@@ -236,7 +236,6 @@
 
 
 <br>
-
 <h3>Operating System :</h3>
 <p align="center">
 
@@ -300,8 +299,10 @@
 ###
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adityakalambe01&theme=radical&no-frame=false&no-bg=true&margin-w=100%)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityakalambe01&theme=radical&no-frame=false&no-bg=true" alt="GitHub Trophies">
+</p>
 
 
 
