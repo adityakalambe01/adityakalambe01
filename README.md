@@ -126,11 +126,11 @@
 <br>
 <h3>Cloud Hosting</h3>
 <p align="center">
-        <td><a><img src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a></td>               
-        <td><a><img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a></td>
-        <td><a><img src="https://img.shields.io/badge/railway-0B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"></a></td>
-        <td><a><img src="https://img.shields.io/badge/hostinger-673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"></a></td>
-        <td><a><img src="https://img.shields.io/badge/github_pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages"></a></td>
+        <td><a><img src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>               
+        <td><a><img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/railway-0B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/hostinger-673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/github_pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 </p>    
 <br>
 <h3>Softwares and Tools</h3>
