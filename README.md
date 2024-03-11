@@ -1,4 +1,6 @@
+<p align="center">
 <img src="images/profile/ProfilePic.png">
+</p>
 <br>
 <div align="right">
   <img src="https://profile-counter.glitch.me/adityakalambe01/count.svg?"  />
@@ -13,7 +15,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-[//]: # (<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>)
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -26,14 +28,12 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-
-<p align="center">
-
-<h5>Programming Languages</h5>
+<h3>Programming Languages</h3>
 <p align="center">
 <td>
     <a>
@@ -63,7 +63,7 @@
 </p>
 
 <br>
-<h5>Front-End Technologies</h5>
+<h3>Front-End Technologies</h3>
 <p align="center">
     <td>
         <a>
@@ -98,30 +98,30 @@
 </p>
 
 <br>
-    
+
 - **Java Technologies**:
 
-   ![Spring](https://img.shields.io/badge/spring%20-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) &nbsp;
-   ![SpringBoot](https://img.shields.io/badge/spring_boot%20-%6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white) &nbsp;
-   ![Hibernate](https://img.shields.io/badge/hibernate%20-gray.svg?&style=for-the-badge&logo=hibernate&logoColor=white) &nbsp;
-   ![JDBC](https://img.shields.io/badge/jdbc%20-%23ED8B00.svg?&style=for-the-badge&logo=jdbc&logoColor=white) &nbsp;
-   ![JSP](https://img.shields.io/badge/jsp%20-%23ED8B00.svg?&style=for-the-badge&logo=jsp&logoColor=white) &nbsp;
-   ![Servlets](https://img.shields.io/badge/Servlets%20-%23ED8B00.svg?&style=for-the-badge&logo=svelte&logoColor=white) &nbsp;
+  ![Spring](https://img.shields.io/badge/spring%20-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) &nbsp;
+  ![SpringBoot](https://img.shields.io/badge/spring_boot%20-%6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white) &nbsp;
+  ![Hibernate](https://img.shields.io/badge/hibernate%20-gray.svg?&style=for-the-badge&logo=hibernate&logoColor=white) &nbsp;
+  ![JDBC](https://img.shields.io/badge/jdbc%20-%23ED8B00.svg?&style=for-the-badge&logo=jdbc&logoColor=white) &nbsp;
+  ![JSP](https://img.shields.io/badge/jsp%20-%23ED8B00.svg?&style=for-the-badge&logo=jsp&logoColor=white) &nbsp;
+  ![Servlets](https://img.shields.io/badge/Servlets%20-%23ED8B00.svg?&style=for-the-badge&logo=servlets&logoColor=white) &nbsp;
 
 <br>
 
 - **Design**:
 
-    ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) &nbsp;
-  
+  ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) &nbsp;
+
 <br>
 
 - **Databases**:
 
-    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
-    ![Mongo DB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
-    ![PostgreSQL](https://img.shields.io/badge/postgre_sql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
-    
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
+  ![Mongo DB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/postgre_sql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
+
 <br>
 
 - **Cloud Hosting**:
@@ -131,30 +131,113 @@
   ![Hostinger](https://img.shields.io/badge/hostinger-673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white) &nbsp;
   ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white) &nbsp;
   ![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) &nbsp;
-  
-<br>
-
-- **Softwares and Tools**:
-
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
-  ![Intellij Idea](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white) &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
-  ![Eclipse IDE](https://img.shields.io/badge/eclipse_ide-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white) &nbsp;
-  ![Webstorm](https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white) &nbsp;
-  ![Pycharm](https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) &nbsp;
-  ![Notepad Plus Plus](https://img.shields.io/badge/notepad++-90E59A.svg?style=for-the-badge&logo=notepadplusplus&logoColor=white) &nbsp;
-  ![Spyder IDE](https://img.shields.io/badge/spyder_ide-FF0000.svg?style=for-the-badge&logo=spyderide&logoColor=white) &nbsp;
-  ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) &nbsp;
-  ![Anaconda](https://img.shields.io/badge/anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) &nbsp;
-  ![MySQL Workbench](https://img.shields.io/badge/MySQL_workbench-1E93D9.svg?style=for-the-badge&logo=blockbench&logoColor=white) &nbsp;
-  ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) &nbsp;
-  ![Chat GPT](https://img.shields.io/badge/chat_gpt-412991.svg?style=for-the-badge&logo=openai&logoColor=white) &nbsp;
 
 <br>
+<h3>Softwares and Tools</h3>
+<p align="center">
+<td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt=Git style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Hit Hub" style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="Intellij Idea" style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/eclipse_ide-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse IDE" style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+</p>
+<p align="center">
+<td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt=Webstorm style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="Pycharm" style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/notepad++-90E59A.svg?style=for-the-badge&logo=notepadplusplus&logoColor=white" alt="Notepad++" style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/spyder_ide-FF0000.svg?style=for-the-badge&logo=spyderide&logoColor=white" alt="Spyder IDE" style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
 
-- **Operating System :**
 
+</p>
+
+<p align="center">
+    <td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt=Anaconda style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/MySQL_workbench-1E93D9.svg?style=for-the-badge&logo=blockbench&logoColor=white" alt="MySQL Workbench" style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt=Postman style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/chat_gpt-412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="Chat GPT" style="margin-bottom: 5px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+      <a href="" target="_blank">
+        &nbsp;
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+</p>
+
+
+<br>
+
+<h3>Operating System :</h3>
 <p align="center">
 
   <td>
@@ -193,7 +276,8 @@
    </td>
 </p>
 
-</p>
+
+
 <br>
 
 -----
@@ -205,8 +289,8 @@
 
 ###
 
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakalambe01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150px" alt="stats graph" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakalambe01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150px" alt="stats graph" /> 
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakalambe01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150px" alt="languages graph" />
   <br>
   <br>
@@ -216,7 +300,7 @@
 ###
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityakalambe01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adityakalambe01&theme=radical&no-frame=false&no-bg=true&margin-w=100%)
 
 
 
@@ -227,35 +311,35 @@
 <h3><b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3>
 
 <p align="center">
-  
+
   <td>
     <a href="mailto:adityakalambe20@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   </td>
-  
+
   <td>
     <a href="https://join.skype.com/invite/xSsk4fU0CFk2" target="_blank">
       <img src="https://img.shields.io/badge/skype-00AFF0.svg?style=for-the-badge&logo=skype&logoColor=white" alt=skype style="margin-bottom: 5px;"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   </td>
-  
+
   <td>
     <a href="https://www.linkedin.com/in/adityakalambe/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   </td>
-  
+
   <td>
     <a href="https://wa.me/918669738983?text=Hello%20Aditya,%20I'm%20(your%20name)%20contacted%20you%20from%20github." target="_blank">
       <img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt=skype style="margin-bottom: 5px;"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   </td>
-  
+
   <td>
     <a href="https://www.instagram.com/adityakalambe01/" target="_blank">
       <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
@@ -276,7 +360,7 @@
 
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br>
 <br><br>
 
@@ -287,6 +371,10 @@
 </div>
 
 <br><br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br>
+
+
+
+
 
