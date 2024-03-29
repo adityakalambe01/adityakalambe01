@@ -296,6 +296,9 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakalambe01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150px" alt="languages graph" />
   <br>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityakalambe01&theme=dracula)
+  
   <br>
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakalambe01&theme=dracula&hide_border=false" alt="adityakalambe01"/></p>
 </div>
