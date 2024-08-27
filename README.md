@@ -25,7 +25,7 @@
 - 🎒 I'm a 2023 graduate
 - 💻 My major was in Information Technology.
 - 🔥 I develop websites.
-- 👀 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1yEKV5RS9KTauoIRoMXyE81GxF85eAeRm/view?usp=sharing)
+- 👀 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1yEKV5RS9KTauoIRoMXyE81GxF85eAeRm/view?usp=sharing) and [portfolio](https://adityakalambe.vercel.app/).
 
 
 <br><br>
