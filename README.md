@@ -23,7 +23,7 @@
 <br>
 
 - 💻 A passionate **Full-Stack Developer**.  
-- 🎓 **2023 Graduate** with a major in **Information Technology**.  
+- 🎓 **2023 Graduate** with a major in **Computer Science & Engineering**.  
 - 🔥 Skilled in both **MERN (MongoDB, Express.js, React.js, Node.js)** and **MEAN (MongoDB, Express.js, Angular, Node.js)** stacks.  
 - 🌐 I build scalable, responsive, and modern web applications.  
 - 🚀 **Currently working** as a developer and open for exciting **full-time opportunities**.  
