@@ -1,18 +1,24 @@
-<br>
+<!-- <br> -->
 
-<p align="center">
-<img src="images/profile/ProfilePic.png">
-</p>
-<br>
-<div align="right">
+<!-- <p align="center"> -->
+<!-- <img src="images/profile/ProfilePic.png"> -->
+<!-- </p> -->
+<!-- <br> -->
+<!-- <div align="right">
   <img src="https://profile-counter.glitch.me/adityakalambe01/count.svg?"  />
-</div>
-<h1 align="center"><b>Hi , I'm Aditya Kalambe</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+</div> -->
 
 <p align="center"> 
- <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=<>+I'm+InnoDareDevil,;Danger+is+my+Playground,;Innovation+is+my+Weapon!,;A+passionate+Full-Stack+Developer,;Experienced+in+MERN+%26+MEAN+Stacks,;Design+clean+and+modern+UIs,;Currently+working+as+a+Full-Stack+Developer,;Active+Learner+%26+Innovator,;Love+to+learn+new+stuffs..</>">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=600&height=100&lines=<>+I'm+InnoDareDevil,;Danger+is+my+Playground,;Innovation+is+my+Weapon!,;A+passionate+Full-Stack+Developer,;Experienced+in+MERN+%26+MEAN+Stacks,;Design+clean+and+modern+UIs,;Currently+working+as+a+Full-Stack+Developer,;Active+Learner+%26+Innovator,;Love+to+learn+new+stuffs..</>">
 
 </p>
+
+<br/><br/>
+
+<h1 align="center">
+  <b>Hi , I'm Aditya Kalambe</b>
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> -->
+</h1>
 
 <br>
 
