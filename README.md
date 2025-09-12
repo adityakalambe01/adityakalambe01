@@ -10,7 +10,8 @@
 <h1 align="center"><b>Hi , I'm Aditya Kalambe</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=<>+I'm+InnoDareDevil,;Danger+is+my+Playground,;Innovation+is+my+Weapon!,;A+passionate+Full-Stack+Developer,;Done+3+internships,;Computer+Science+and+Engineering+Student,;Active+Learner,;Love+to+learn+new+stuffs..</>">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=<>+I'm+InnoDareDevil,;Danger+is+my+Playground,;Innovation+is+my+Weapon!,;A+passionate+Full-Stack+Developer,;Experienced+in+MERN+%26+MEAN+Stacks,;Design+clean+and+modern+UIs,;Currently+working+as+a+Full-Stack+Developer,;Active+Learner+%26+Innovator,;Love+to+learn+new+stuffs..</>">
+
 </p>
 
 <br>
@@ -21,12 +22,12 @@
 
 <br>
 
-- 💻 A passionate Full-Stack developer.
-- 🎒 I'm a 2023 graduate
-- 💻 My major was in Information Technology.
-- 🔥 I develop websites.
-- 👀 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1yEKV5RS9KTauoIRoMXyE81GxF85eAeRm/view?usp=sharing) and [portfolio](https://adityakalambe.vercel.app/).
-
+- 💻 A passionate **Full-Stack Developer**.  
+- 🎓 **2023 Graduate** with a major in **Information Technology**.  
+- 🔥 Skilled in both **MERN (MongoDB, Express.js, React.js, Node.js)** and **MEAN (MongoDB, Express.js, Angular, Node.js)** stacks.  
+- 🌐 I build scalable, responsive, and modern web applications.  
+- 🚀 **Currently working** as a developer and open for exciting **full-time opportunities**.  
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1yEKV5RS9KTauoIRoMXyE81GxF85eAeRm/view?usp=sharing) and [Portfolio](https://adityakalambe.vercel.app/).  
 
 <br><br>
 
@@ -97,6 +98,12 @@
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
+  <td>
+    <a>
+        <img src="https://img.shields.io/badge/next.js%20-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 </p>
 
 <br>
@@ -108,6 +115,43 @@
         <td><a><img src="https://img.shields.io/badge/hibernate%20-gray.svg?&style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td><a><img src="https://img.shields.io/badge/spring%20-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td><a><img src="https://img.shields.io/badge/spring_boot%20-%6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</p>
+
+<br>
+
+<br>
+<h3>Other Backend Technologies</h3>
+<p align="center">
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/node.js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/TypeScript%20Node.js-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="Node.js with TypeScript">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/NestJS%20-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/Nestify%20-000000.svg?&style=for-the-badge&logo=nestjs&logoColor=white" alt="Nestify">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/.NET%20-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
 </p>
 
 <br>
